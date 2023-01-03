@@ -27,7 +27,7 @@ const Login = () => {
         return EMAIL_REGEXP.test(value);
     }
 
-    const handleRequestLogin = async (e: any) => {
+    const handleRequestLogin = async (e: React.SyntheticEvent) => {
         e.preventDefault();
         try {
             await loginUserRequest({
