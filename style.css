@@ -1,0 +1,47 @@
+p {
+    margin: 0
+}
+
+section {
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+ol {
+    width: 50%;
+    list-style: none;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 15px;
+}
+.first-list p {
+    margin-top: 25px;
+    text-indent: 15px;
+}
+
+.second-list p {
+    margin-bottom: 25px;
+}
+
+.second-list p:last-child {
+    margin-top: 25px;
+    text-indent: 15px;
+}
+
+hr {
+    border: none;
+    color: #4a4a4a;
+    background-color: #4a4a4a; 
+    width: 1px;
+    margin: 0;
+}
+.first-list {
+    padding-right: 40px;
+}
+
+.second-list {
+    padding-left: 40px;
+}
