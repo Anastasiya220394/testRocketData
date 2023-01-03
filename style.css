@@ -8,6 +8,7 @@ section {
     margin: 0 auto;
     margin-top: 50px;
 }
+
 ol {
     width: 50%;
     list-style: none;
@@ -17,6 +18,7 @@ ol {
 li {
     margin-bottom: 15px;
 }
+
 .first-list p {
     margin-top: 25px;
     text-indent: 15px;
