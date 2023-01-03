@@ -1,0 +1,10 @@
+p {
+  margin: 0
+}
+
+.App {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

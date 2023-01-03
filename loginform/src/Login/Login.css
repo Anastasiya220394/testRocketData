@@ -1,0 +1,56 @@
+
+.Login {
+    width: 400px;
+    box-shadow: 0 0 10px 5px rgba(221, 221, 221, 1);
+    padding: 60px 30px;
+  }
+  
+  .h2 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .text {
+    font-size: 16px;
+    font-weight: 500;
+    color: #707070;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .textInput {
+    color: #434242;
+    margin-bottom: 20px;
+    height: 80px;
+  }
+  
+  .textInput input {
+    width: 95%;
+    padding: 12px 10px;
+    border: 1px solid rgb(215, 215, 215);
+    border-radius: 3px;
+    margin-top: 6px;
+    font-size: 16px;
+  }
+  
+  .btnLogin {
+    padding: 10px 17px;
+    font-size: 16px;
+    background-color: rgb(122, 130, 215);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    margin-top: 40px;
+    cursor: pointer;
+  }
+  
+  input:focus {
+    outline: none;
+  }
+  
+  .error {
+    color: rgba(227, 39, 39, 0.982);
+  }
+  
